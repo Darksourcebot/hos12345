@@ -30,7 +30,7 @@ SONG_DOWNLOAD_DURATION = int(
 ) 
 
 # جروب اللي مرفوع فيه البوت والمساعد ادمن 
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID",))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID",)
 
 # اسم البوت مينفعش تكتبو مزغرف
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME")
